@@ -1,4 +1,4 @@
-# Formulãrio
+# Formulário
 # Projeto simples de um formulário dentro de um card
 
 <h2>O objetivo do exemplo é para colocar um form dentro de um card.<br>
